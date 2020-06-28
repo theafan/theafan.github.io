@@ -5,3 +5,6 @@ Merida is a princess in an American computer-animated fantasy film produced by P
 * brave
 * athletic
 * high-flying
+
+As Merida said:
+> Our fate lives within us, you only have to be brave enough to see it.
